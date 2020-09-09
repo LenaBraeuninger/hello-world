@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+I started learning how to program a view weeks ago and I'm very excited about how far I can come ...
